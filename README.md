@@ -4,8 +4,7 @@ A site that contains information about engineers my events
 ## Tools
 - [Reflex](https://reflex.dev/docs/getting-started/introduction/)
 
-
-## Site's Content
+## Site Content
 
 Header Section:
 - engineersmy logo
@@ -46,6 +45,8 @@ Footer Section:
 - Social media links
 - Copyright information and disclaimer
 - Quick links (Privacy Policy, Terms of Service, etc.)
+
+## Wireframe
 
 ## Notes
 - The events are to be ingested via Google Calendar API, during development, please run it once and cache it, do not abuse Google's API.
